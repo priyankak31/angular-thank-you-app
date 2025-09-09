@@ -1,4 +1,4 @@
-# Tann Mann Thank You Page (Angular Test Project)
+# Thank You Page (Angular Test Project)
 
 This is a simple **Angular 19 application** created as part of the recruitment process for **The Tann Mann Foundation**.
 
